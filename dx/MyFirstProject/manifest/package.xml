@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    
+     <types>
+        <members>Account.Hulk_Name__c</members>
+        <members>Student__c.Class__c</members>
+         <members>Class__c.Number_of_Students__c</members>
+         <members>Class__c.Age__c</members>
+        <name>CustomField</name>
+    </types>
+   <types>
+        <members>Student__c</members>
+        <members>Class__c</members>
+        <name>CustomObject</name>
+    </types>
+   
+    <version>56.0</version>
+</Package>
